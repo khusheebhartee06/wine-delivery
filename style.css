@@ -1,0 +1,53 @@
+.bg{
+    background-color: black;
+}
+a{
+    color:rgb(46, 137, 240);
+    text-decoration: none;
+}
+a:hover{
+    color:goldenrod;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+.col-lg-4 a:hover{
+    background-color: rgb(235, 205, 129);
+}
+#myimage img{
+    height: 80%;
+    width: 100%;
+}
+#img-1 img{
+    height: 100%;
+    width: 100%;
+    border-bottom: 2px solid rgb(135, 98, 5);
+}
+#img-1 .col-md-3{
+    padding: 5px;
+}
+#img-1{
+    background-color: rgb(234, 232, 232);
+}
+#img-2{
+    background-color: #ffffff;
+}
+#img-0 img{
+    height: 80%;
+    width: 100%;
+    margin: 20px;
+}
+#img-3{
+    background-color: #ffffff;
+}
+#img-3 .col-lg-3{
+    border: 1px solid rgb(180, 178, 178);
+    border-radius: 10%;
+}
+#img-3 .col-lg-3 img{
+    height: 100px;
+    width: 100px;
+}
+#img-10 img{
+ height: 10px;
+}
